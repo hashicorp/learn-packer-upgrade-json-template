@@ -1,0 +1,1 @@
+# Learn Packer - Upgrade JSON template to HCL2
